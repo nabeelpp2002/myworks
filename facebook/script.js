@@ -1,0 +1,33 @@
+$(document).ready(function(){
+    $("#signup-form").validate({
+        rules:{
+            fname:{
+                required:true,
+                minlength:4
+            },
+            sname:{
+                required:true,
+                maxlength:4
+            },
+            emailAddress:{
+                required:true,
+                email:true
+            },
+            passWord:{
+                required:true,
+                minlength:8
+            },
+            day:{
+                required:true
+            },
+            month:{
+                required:true
+            },
+            year:{
+                required:true
+            }
+
+        }
+        
+    })
+})
