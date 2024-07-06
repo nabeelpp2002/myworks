@@ -1,14 +1,15 @@
 # My Works Repository
 
-Welcome to my projects repository! This repository contains various projects developed using React, Bootstrap, HTML, CSS, and JavaScript. Below you will find descriptions and instructions for each project.
+Welcome to my projects repository! This repository contains various projects developed using JavaScript, React, HTML, CSS, and Bootstrap. Below you will find descriptions and instructions for each project.
 
 ## Table of Contents
 
 - [Projects](#projects)
-  - [Project 1:  Calculator](#project-1-react-calculator)
-  - [Project 2: Bootstrap Portfolio](#project-2-bootstrap-portfolio)
-  - [Project 3: JavaScript Game](#project-3-javascript-game)
-  - [Project 4: CSS Animations](#project-4-css-animations)
+  - [Project 1: JavaScript Calculator](#project-1-javascript-calculator)
+  - [Project 2: React Calculator](#project-2-react-calculator)
+  - [Project 3: HTML and CSS Facebook Login Page](#project-3-html-and-css-facebook-login-page)
+  - [Project 4: Bootstrap Personal Web Page](#project-4-bootstrap-personal-web-page)
+  - [Project 5: React To-Do List](#project-5-react-to-do-list)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -17,9 +18,21 @@ Welcome to my projects repository! This repository contains various projects dev
 
 ## Projects
 
-### Project 1: React Calculator
+### Project 1: JavaScript Calculator
 
-A simple calculator built using React. The calculator supports basic arithmetic operations and provides a clean, responsive interface.
+A simple calculator built using vanilla JavaScript. The calculator supports basic arithmetic operations and provides a clean, responsive interface.
+
+- **Technologies:** JavaScript, HTML, CSS
+- **Features:**
+  - Addition, subtraction, multiplication, and division
+  - Clear functionality
+  
+
+[View Project](link-to-project) | [Source Code](link-to-source-code)
+
+### Project 2: React Calculator
+
+A calculator application built using React. This project demonstrates state management and component-based architecture in React.
 
 - **Technologies:** React, CSS
 - **Features:**
@@ -29,7 +42,18 @@ A simple calculator built using React. The calculator supports basic arithmetic 
 
 [View Project](link-to-project) | [Source Code](link-to-source-code)
 
-### Project 2: Bootstrap Portfolio
+### Project 3: HTML and CSS Facebook Login Page
+
+A replica of the Facebook login page built using HTML and CSS. This project focuses on layout design and responsive styling.
+
+- **Technologies:** HTML, CSS
+- **Features:**
+
+  - Accurate styling to mimic Facebook's login page
+
+[View Project](link-to-project) | [Source Code](link-to-source-code)
+
+### Project 4: Bootstrap Personal Web Page
 
 A personal portfolio website showcasing my skills, projects, and contact information. Built with Bootstrap to ensure a responsive and modern design.
 
@@ -41,27 +65,15 @@ A personal portfolio website showcasing my skills, projects, and contact informa
 
 [View Project](link-to-project) | [Source Code](link-to-source-code)
 
-### Project 3: JavaScript Game
+### Project 5: React To-Do List
 
-A fun and interactive game developed using JavaScript. The game includes multiple levels, score tracking, and animations.
+A to-do list application built using React. This project includes features for adding, editing, and deleting tasks.
 
-- **Technologies:** JavaScript, HTML, CSS
+- **Technologies:** React, CSS
 - **Features:**
-  - Multiple levels and challenges
-  - Score tracking
-  - Engaging animations
-
-[View Project](link-to-project) | [Source Code](link-to-source-code)
-
-### Project 4: CSS Animations
-
-A collection of CSS animations demonstrating various techniques and effects. Each animation is self-contained and can be easily integrated into other projects.
-
-- **Technologies:** CSS, HTML
-- **Features:**
-  - Hover effects
-  - Loading spinners
-  - Transitions and keyframes
+  - Add and delete tasks
+  - Mark tasks as complete
+    
 
 [View Project](link-to-project) | [Source Code](link-to-source-code)
 
