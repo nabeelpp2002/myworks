@@ -1,0 +1,54 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 97%;
+    height: 29px; /* Adjust height if necessary */
+    padding: 20px;
+    display: flex;
+    /*justify-content: space-between;*/
+    /*background-color: rgba(0, 0, 0, 0.5); */ /* Semi-transparent background */
+    /*backdrop-filter: blur(10px);*/  /* Blur effect */
+    transition: background-color 0.3s ease;
+    z-index: 10; /* Ensure it stays on top */
+  }
+  
+  .navbar-scrolled {
+    background-color: black; /* Solid black background when scrolled */
+  }
+  
+  .logo {
+    width: 80px;
+  }
+  
+  .avatar {
+    width: 30px;
+    left: 0;
+    padding-left: 570px;
+  }
+  .nav_buttons_head{
+    
+    padding-left: 48px;
+   
+    justify-content: space-between;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  .nav_buttons{
+    color: rgb(226, 226, 226);
+    cursor: default;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+    padding-right: 16px;
+    transition: transform 0.3s ease;
+  }
+  .nav_buttons:hover{
+    color: rgb(216, 216, 216);
+    outline: none;
+    border: none;
+    
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    
+    transition: transform 0.3s ease;
+
+  }
