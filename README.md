@@ -10,7 +10,7 @@ Welcome to my projects repository! This repository contains various projects dev
   - [Project 3: HTML and CSS Facebook Login Page](#project-3-html-and-css-facebook-login-page)
   - [Project 4: Bootstrap Personal Web Page](#project-4-bootstrap-personal-web-page)
   - [Project 5: React To-Do List](#project-5-react-to-do-list)
-  - [Project 6: Netflix Clone using React (#project-6-netflix-clone-react)
+  - [Project 6: Netflix Clone using React ](#project-6-netflix-clone-react)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
