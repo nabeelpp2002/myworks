@@ -104,4 +104,4 @@ To run any of these projects locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nabeelpp2002/myworks.git
+   https://github.com/nabeelpp2002/myworks.git
